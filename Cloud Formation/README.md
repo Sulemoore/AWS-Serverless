@@ -10,3 +10,7 @@ For this lab exercise, you need to create the following cloud environment setup.
 This lab will not cost you as it falls within the free tier. Stack will also be deleted afterwards.
 ## Time
 This lab will take approximately 20 mins. to complete.
+## INITIAL SETUP
+1. Create a key pair in the AWS Management Console.
+<img width="905" alt="Screenshot 2023-01-19 at 12 15 01 AM" src="https://user-images.githubusercontent.com/101164153/213369822-000f1391-1a28-4545-a06c-203827858620.png">
+2. Download the template in the `code` on your local machine and create a stack by uploading this file.
