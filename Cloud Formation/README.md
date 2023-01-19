@@ -13,4 +13,12 @@ This lab will take approximately 20 mins. to complete.
 ## INITIAL SETUP
 1. Create a key pair in the AWS Management Console.
 <img width="905" alt="Screenshot 2023-01-19 at 12 15 01 AM" src="https://user-images.githubusercontent.com/101164153/213369822-000f1391-1a28-4545-a06c-203827858620.png">
-2. Download the template in the `code` on your local machine and create a stack by uploading this file.
+
+2. Download the template in the code on your local machine and create a stack by uploading this file.
+3. Go to the CloudFormation page, create a stack by uploading the template file. 
+4. Upload downloaded template. {CloudFormation automatically creates an S3 URL where the template will be stored once uploaded.}<img width="1699" alt="Screenshot 2023-01-19 at 12 34 02 AM" src="https://user-images.githubusercontent.com/101164153/213372216-77d1e863-1335-43e9-a433-5059c996190c.png">
+
+5. Name the stack `td-lab-cf-simple-stack`. No need to set the parameters since the default values declared on the template are correct already.
+6. <img width="1172" alt="Screenshot 2023-01-19 at 12 36 10 AM" src="https://user-images.githubusercontent.com/101164153/213372661-af8a791e-fb45-495f-8696-3cd911a03eea.png">
+
+7. Continue on the next steps by clicking Next and then click Create Stack.
