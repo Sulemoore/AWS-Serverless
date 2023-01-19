@@ -11,7 +11,7 @@ This lab will not cost you as it falls within the free tier. Stack will also be 
 ## Time
 This lab will take approximately 20 mins. to complete.
 ## INITIAL SETUP
-1. Create a key pair in the AWS Management Console.
+1. Create a key pair in the AWS Management Console.Makesure key pair name matches what is indicated in template or update template accordingly.
 <img width="905" alt="Screenshot 2023-01-19 at 12 15 01 AM" src="https://user-images.githubusercontent.com/101164153/213369822-000f1391-1a28-4545-a06c-203827858620.png">
 
 2. Download the template in the code on your local machine and create a stack by uploading this file.
@@ -22,3 +22,6 @@ This lab will take approximately 20 mins. to complete.
 6. <img width="1172" alt="Screenshot 2023-01-19 at 12 36 10 AM" src="https://user-images.githubusercontent.com/101164153/213372661-af8a791e-fb45-495f-8696-3cd911a03eea.png">
 
 7. Continue on the next steps by clicking Next and then click Create Stack.
+8. Once done, you should be able to see CREATE_COMPLETE status on your stack.
+<img width="1153" alt="Screenshot 2023-01-19 at 12 45 38 AM" src="https://user-images.githubusercontent.com/101164153/213374310-09ebb416-6545-4d87-bfab-1ecc461f14b4.png">
+
