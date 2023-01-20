@@ -50,4 +50,9 @@ But, we don’t need to replace the value of the parameter in the template itsel
 <img width="1720" alt="Screenshot 2023-01-19 at 9 39 03 PM" src="https://user-images.githubusercontent.com/101164153/213612683-05eb9685-53e2-49df-9e4e-4c4665267b70.png">
 <img width="1039" alt="Screenshot 2023-01-19 at 9 42 07 PM" src="https://user-images.githubusercontent.com/101164153/213612959-b7e37d76-7f44-4bc5-84f5-68723c654bbd.png">
 
+At this point, we can change the parameter values discussed in Instruction #3. Select the `DevInstanceTypeParam` dropdown and click `t3.small`
+Click Next when asked to configure stack options. Review the change set details and then click Create change set. Create change set for current stack.
+Verify the changes you implemented in the change set.
+In the Changes tab, you should be able to view the changes on your security group and the Outputs section.
+
 9. Update the stack by using a change set and name it `td-lab-cf-v-0-1`. Once you verify the resources that will be affected by the changes you created on the template, execute the change set.
